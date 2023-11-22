@@ -5,7 +5,7 @@
 
  <h2 align="center"> Olá mundo! Eu sou o Fabrício Lima</h2>
 
-<p align="center"><i>Estudante de programação 💡</i></p> 
+<p align="center"><i>Estudante de Programação e Analise de Dados 💡</i></p> 
 
 </div>
 
