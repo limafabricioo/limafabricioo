@@ -5,7 +5,7 @@
 
  <h2 align="center"> Olá mundo! Eu sou o Fabrício Lima</h2>
 
-<p align="center"><i>Estudante de Programação e Analise de Dados 💡</i></p> 
+<p align="center"><i>Cientista de Dados e Programador FullStack 💡</i></p> 
 
 </div>
 
